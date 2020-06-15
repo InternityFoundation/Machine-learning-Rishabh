@@ -11,5 +11,11 @@ https://medium.com/@rishabhjain9440/decision-tree-regression-14a7992ee904
 ## To understand theSupport Vector Regression (4th June) :-
 https://medium.com/@rishabhjain9440/support-vector-regression-52b8677ea58e
 
-## To understand the K-Nearest Neighbour (1st June) :-
+## To understand the K-Nearest Neighbour (11th June) :-
 https://medium.com/@rishabhjain9440/k-nearest-neighbour-knn-b8f779da3bf9
+
+## To understand the Random Forest Classification (15th June) :-
+https://medium.com/@rishabhjain9440/random-forest-classification-914a5bc2fcdf
+
+## To understand the Decision Tree Classification (15th June) :-
+https://medium.com/@rishabhjain9440/decision-tree-classification-502ab052a8f0

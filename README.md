@@ -14,6 +14,9 @@ https://medium.com/@rishabhjain9440/support-vector-regression-52b8677ea58e
 ## To understand the K-Nearest Neighbour (11th June) :-
 https://medium.com/@rishabhjain9440/k-nearest-neighbour-knn-b8f779da3bf9
 
+## To understand the Logistic Regression (11th June) :-
+https://medium.com/@rishabhjain9440/introduction-to-logistic-regression-6840a44bbd1d
+
 ## To understand the Random Forest Classification (15th June) :-
 https://medium.com/@rishabhjain9440/random-forest-classification-914a5bc2fcdf
 

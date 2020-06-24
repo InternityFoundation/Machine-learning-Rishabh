@@ -22,3 +22,6 @@ https://medium.com/@rishabhjain9440/random-forest-classification-914a5bc2fcdf
 
 ## To understand the Decision Tree Classification (15th June) :-
 https://medium.com/@rishabhjain9440/decision-tree-classification-502ab052a8f0
+
+## To understand the K-means Clustering (23rd June) :-
+https://medium.com/@rishabhjain9440/k-means-clustering-73e50e8e317f

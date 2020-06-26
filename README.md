@@ -25,3 +25,9 @@ https://medium.com/@rishabhjain9440/decision-tree-classification-502ab052a8f0
 
 ## To understand the K-means Clustering (23rd June) :-
 https://medium.com/@rishabhjain9440/k-means-clustering-73e50e8e317f
+
+## To understand the Associative Rule Mining (24th June) :-
+https://medium.com/@rishabhjain9440/associative-rule-mining-500120e11c3d
+
+## To understand the Dimensionality Reduction Algorithms (25th June) :-
+https://medium.com/@rishabhjain9440/dimensionality-reduction-algorithms-64a266d320c5
